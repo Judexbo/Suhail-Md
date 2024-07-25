@@ -123,7 +123,7 @@
  <details close>
 <summary>RENDER DEPLOY PROCESS</summary>
    
-    1: Click "NEW".
+    1: Click "".
     2: Select "Web Service".
     3: Click "Build and deploy from a Git repository".
     4: Now Choose this forked git repo from list.
